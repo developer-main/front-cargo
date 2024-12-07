@@ -50,6 +50,7 @@ export type {
     AppMenuItemProps,
     ChildContainerProps,
     Demo,
+    Catalogo,   
     LayoutType,
     SortOrderType,
     CustomEvent,

@@ -1,0 +1,1 @@
+export var urlEndpoint = 'http://localhost:9000/';
