@@ -1,6 +1,15 @@
 import { Metadata } from 'next';
 import AppConfig from '../../layout/AppConfig';
 import React from 'react';
+import {
+    locale,
+    addLocale,
+    updateLocaleOption,
+    updateLocaleOptions,
+    localeOption,
+    localeOptions
+  } from "primereact/api";
+  
 
 interface SimpleLayoutProps {
     children: React.ReactNode;

@@ -10,6 +10,19 @@ import React, { useContext, useEffect, useState } from 'react';
 import { AppConfigProps, LayoutConfig, LayoutState } from '@/types';
 import { LayoutContext } from './context/layoutcontext';
 
+import {
+    locale,
+    addLocale,
+    updateLocaleOption,
+    updateLocaleOptions,
+    localeOption,
+    localeOptions
+  } from "primereact/api";
+
+    //import * as locales from "./locales.json";
+    import * as locales from "../app/locales.json";
+
+
 const AppConfig = (props: AppConfigProps) => {
     const [scales] = useState([12, 13, 14, 15, 16]);
     const { layoutConfig, setLayoutConfig, layoutState, setLayoutState } = useContext(LayoutContext);
@@ -56,6 +69,10 @@ const AppConfig = (props: AppConfigProps) => {
 
     useEffect(() => {
         applyScale();
+        locale("en"); // default locale.
+        // Added new locale with its options
+       addLocale("es", locales["es"]);
+       locale("es");
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [layoutConfig.scale]);
 
