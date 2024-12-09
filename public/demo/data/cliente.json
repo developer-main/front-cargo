@@ -1,0 +1,187 @@
+{
+    "data": [
+        
+            {
+                "id": 1,
+                "empresa": "Tecnología Global SA",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "contacto@tecnologiaglobal.com",
+                "telefono": "9931234567",
+                "rfc": "TGL980112ABC",
+                "direccion": "Calle Principal #123, Villahermosa, Tabasco"
+            },
+            {
+                "id": 2,
+                "empresa": "Innovación y Soluciones SA",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "info@innovacionsoluciones.mx",
+                "telefono": "9937654321",
+                "rfc": "INS970405DEF",
+                "direccion": "Av. Reforma #45, Centro, Tabasco"
+            },
+            {
+                "id": 3,
+                "empresa": "Servicios Empresariales SA",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "servicios@empresariales.com",
+                "telefono": "9931122334",
+                "rfc": "SER900315GHI",
+                "direccion": "Calle Independencia #200, Villahermosa"
+            },
+            {
+                "id": 4,
+                "empresa": "Proyectos Tabasco SC",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "proyectos@tabasco.com",
+                "telefono": "9936677889",
+                "rfc": "PTA880822JKL",
+                "direccion": "Blvd. Bicentenario #12, Villahermosa"
+            },
+            {
+                "id": 5,
+                "empresa": "Comercializadora Sureste",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "ventas@sureste.mx",
+                "telefono": "9939988776",
+                "rfc": "COS960529MNO",
+                "direccion": "Calle México #99, Centro, Tabasco"
+            },
+            {
+                "id": 6,
+                "empresa": "Distribuidora del Sur",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "ventas@delsur.com",
+                "telefono": "9935544332",
+                "rfc": "DIS920715PQR",
+                "direccion": "Av. Universidad #350, Villahermosa"
+            },
+            {
+                "id": 7,
+                "empresa": "Soluciones Integrales",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "contacto@soluciones.com.mx",
+                "telefono": "9932233445",
+                "rfc": "SOL950923STU",
+                "direccion": "Calle Tabasco #56, Villahermosa"
+            },
+            {
+                "id": 8,
+                "empresa": "Consultoría Global",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "consultoria@global.mx",
+                "telefono": "9934455667",
+                "rfc": "CON930814VWX",
+                "direccion": "Av. Tabasco 2000 #44, Villahermosa"
+            },
+            {
+                "id": 9,
+                "empresa": "Marketing Avanzado",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "info@marketing.com",
+                "telefono": "9935566778",
+                "rfc": "MAR940126YZA",
+                "direccion": "Calle Hidalgo #78, Centro, Tabasco"
+            },
+            {
+                "id": 10,
+                "empresa": "Logística Total",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "logistica@total.com",
+                "telefono": "9936677881",
+                "rfc": "LOG910508BCD",
+                "direccion": "Av. Méndez #120, Villahermosa"
+            },
+            {
+                "id": 11,
+                "empresa": "Construcción Moderna",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "ventas@construccionmoderna.com",
+                "telefono": "9937788992",
+                "rfc": "CON950402EFG",
+                "direccion": "Calle Morelos #67, Centro, Tabasco"
+            },
+            {
+                "id": 12,
+                "empresa": "Transportes del Golfo",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "contacto@transportesgolfo.mx",
+                "telefono": "9938899003",
+                "rfc": "TRA870912HIJ",
+                "direccion": "Carretera Principal Km 12, Villahermosa"
+            },
+            {
+                "id": 13,
+                "empresa": "Energía Renovable SA",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "info@energia.com",
+                "telefono": "9939900114",
+                "rfc": "ENE890721KLM",
+                "direccion": "Av. Pagés Llergo #23, Tabasco"
+            },
+            {
+                "id": 14,
+                "empresa": "Asesoría Empresarial",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "asesoria@empresarial.mx",
+                "telefono": "9930011223",
+                "rfc": "ASE920816NOP",
+                "direccion": "Calle Juárez #55, Centro, Tabasco"
+            },
+            {
+                "id": 15,
+                "empresa": "Diseños Exclusivos",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "ventas@disenos.com",
+                "telefono": "9932233445",
+                "rfc": "DIS930223QRS",
+                "direccion": "Calle Zaragoza #88, Villahermosa"
+            },
+            {
+                "id": 16,
+                "empresa": "Industria del Sureste",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "contacto@suresteindustria.com",
+                "telefono": "9933344556",
+                "rfc": "IND850305TUV",
+                "direccion": "Av. Principal #77, Tabasco"
+            },
+            {
+                "id": 17,
+                "empresa": "Software y Servicios",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "soporte@syservicios.com",
+                "telefono": "9934455667",
+                "rfc": "SOF940612WXZ",
+                "direccion": "Calle Reforma #199, Villahermosa"
+            },
+            {
+                "id": 18,
+                "empresa": "Educación Digital",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "info@educaciondigital.mx",
+                "telefono": "9935566778",
+                "rfc": "EDU890827ABC",
+                "direccion": "Av. Universidad #202, Tabasco"
+            },
+            {
+                "id": 19,
+                "empresa": "Consultoría del Sureste",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "consultoria@sureste.com.mx",
+                "telefono": "9936677889",
+                "rfc": "CON901012DEF",
+                "direccion": "Calle Hidalgo #321, Centro, Tabasco"
+            },
+            {
+                "id": 20,
+                "empresa": "Finanzas y Estrategias",
+                "representante":"Williams Cruz Hernandez",
+                "correo": "info@finanzasyestrategias.com",
+                "telefono": "9937788990",
+                "rfc": "FIN950223GHI",
+                "direccion": "Blvd. México #12, Villahermosa"
+            }
+        
+        
+    ]
+}
