@@ -1,0 +1,7 @@
+/* Cambiar el color de fondo del paso activo */
+.p-steps .p-steps-item.p-highlight .p-steps-number {
+    background-color: #eeff00 !important; /* Color de fondo cuando el paso está activo */
+    border-color: #eeff00 !important; /* Cambiar el borde del paso activo */
+    color: #444242;
+}
+
